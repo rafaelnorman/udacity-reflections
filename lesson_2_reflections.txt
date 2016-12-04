@@ -4,4 +4,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the repository and working directory?
 
-repository is a log of all changes. working directory is the current commit. staging area is sort of like a temporary storage of changes before being commited to the repository
+    repository is a log of all changes. working directory is the current commit. staging area is sort of like a temporary storage of changes before being commited to the repository
+
+How can you use the staging to make sure that there is only one logical change per commit?
+
+    staging area is where the changes are stored before it gets commited. you can use the command git diff --staged to see if the changes are the correct size before committing.
