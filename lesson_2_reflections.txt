@@ -13,3 +13,7 @@ How can you use the staging to make sure that there is only one logical change p
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
     when you are deviating from an original plan. or testing something experimental.
+
+How do the diagrams help you visualize the branch structure?
+
+    diagrams are visual representation of the branch structure. git log --graph gives visual representation of orphan nodes and when the branches separate
