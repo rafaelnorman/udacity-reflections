@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    changing a separate branch is preferred if you are suggesting a change to the master branch. when you push it they will see the changes in a separate branch and they could decide to merge or not. you would not make a separate branch if you are sure the update you are making is inline with the main program.
